@@ -1,0 +1,6 @@
+tmc/
+.tmcproject.yml
+__pycache__
+db.*
+*.sql
+*.sqlite3
